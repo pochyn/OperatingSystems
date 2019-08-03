@@ -1,3 +1,7 @@
 # OperatingSystems
 
-Assignments for CSC384 in University of Toronto (UofT). I used started codes, provided by course instructors, as well as my own code to finish assignments. There are some minor bugs.
+Assignments for one of the courses of University of Toronto (UofT). I used starter codes, provided by course instructors, as well as my code to finish them.  
+
+-- work with kernel  
+-- analyze and work with threads  
+-- learnt how physical and virtual memory works in computers
